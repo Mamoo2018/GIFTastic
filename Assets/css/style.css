@@ -1,0 +1,50 @@
+
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: #000;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+body {
+	background-image: url("../images/homer_background.gif");
+    font-family: 'Bad Script', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    background-image: url("../images/giphy.png");
+    text-align: center;
+    font-size: 60px;
+    color: red;
+    border: 3px solid blue;
+}
+
+#input{
+    background-color: darkgray;
+    border: 2px solid blue;
+}
+#submitButton{
+    background-color: darkgray;
+    border: 2px solid blue;
+}
+#display-images{
+    cursor: pointer;
+    background-color: beige;
+}
